@@ -9,7 +9,7 @@
       <p><b>地址：河北省石家庄市长安区胜利北街北二环东路17号</b></p>
     </td>
     <td width="25%">
-      <img src="/tupian.jpg" width="100%">      
+      <img src="https://github.com/yangqqq-yq/yang.github.io/blob/gh-pages/tupian.jpg" width="100%">      
     </td>
   </tr>
   <tr>
